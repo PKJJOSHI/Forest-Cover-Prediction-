@@ -74,7 +74,8 @@ matplotlib
 seaborn
 scikit-learn
 ```
-
+- **Accuracy**: 93.12% (Random Forest)
+- 
 ## 🤖 Author
 
 **Prashant Joshi**  
