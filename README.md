@@ -1,3 +1,6 @@
+<h1 align="center">🔥 Forest Fire Prediction</h1>
+<h3 align="center">Machine Learning | Disaster Forecasting | Early Warning System</h3>
+
 <p align="center">
   <img src="https://media.giphy.com/media/S3Pe5NZqgmE8Tl3niZ/giphy.gif" width="300" />
 </p>
