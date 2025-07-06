@@ -1,4 +1,6 @@
-
+<p align="center">
+  <img src="https://media.giphy.com/media/S3Pe5NZqgmE8Tl3niZ/giphy.gif" width="300" />
+</p>
 # 🌲 Forest Cover Type Prediction
 
 This repository contains a machine learning project that predicts forest cover types based on cartographic variables. It uses classification algorithms to classify each observation into one of the forest cover types.
