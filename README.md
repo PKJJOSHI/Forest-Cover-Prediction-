@@ -1,8 +1,7 @@
-<h1 align="center">🔥 Forest Fire Prediction</h1>
-<h3 align="center">Machine Learning | Disaster Forecasting | Early Warning System</h3>
-
+<h1 align="center"><b>🔥 Forest Cover Type Prediction</b></h1>
+<h3 align="center">🌲 ML for Wildfire Risk Assessment | 🌡️ Forecasting with Meteorological Data</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/S3Pe5NZqgmE8Tl3niZ/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/BHNfhgU63qrks/giphy.gif" width="300" />
 </p>
 # 🌲 Forest Cover Type Prediction
 
